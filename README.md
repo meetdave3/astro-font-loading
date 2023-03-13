@@ -2,30 +2,6 @@
 
 ## Development
 
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run development server
-
-```bash
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
-```
-
-### Preview production build
-
-```bash
-npm run preview
-```
-
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
