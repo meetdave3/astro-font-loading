@@ -1,4 +1,6 @@
-# Astro Starter Kit: Minimal
+# Horus Landing Page
+
+## Development
 
 ```
 npm create astro@latest -- --template minimal
