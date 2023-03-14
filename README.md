@@ -1,4 +1,4 @@
-# Horus Landing Page
+# Astro Font Loading
 
 ## Development
 
